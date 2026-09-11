@@ -1,0 +1,26 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(196, 148, 241);
+}
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 10px;
+
+}
+a {
+    font-size: larger;
+    color:blue;
+}
+ul {
+    margin-bottom: auto;
+}
+h2 {
+    font-size: larger;
+    font-style: oblique;
+}
+h3 {
+    font-style: italic;
+}
+li {margin-bottom: 10px;}
